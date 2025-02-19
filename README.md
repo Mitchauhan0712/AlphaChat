@@ -139,8 +139,7 @@ MIT License. See LICENSE for details.
 
 ---
 
-Developed with ❤️ by **Darshan Shah**. Let's connect!
+Developed by **Mitbhai Chauhan**. Let's connect! 🤝
 
-- 🔗 **GitHub**: [DarshanScripts](https://github.com/DarshanScripts)
-- 🔗 **Quora**: [Darshan Shah](https://www.quora.com/profile/Darshan-Shah-1056)
-- 🔗 **Medium**: [DarshanScripts](https://medium.com/@DarshanScripts)
+- 🔗 **Linkedin**: (https://www.linkedin.com/in/mitbhai-chauhan-69a451210/)
+- 🔗 **Website**: (https://mitchauhan-portfolio.netlify.app/)
