@@ -20,7 +20,7 @@ AlphaChat is a chatbot with a GUI and console interface for real-time conversati
 
 ### 🙋 For End Users
 
-[User Features Demo 1](https://github.com/user-attachments/assets/a1246346-12fd-4e0c-a230-dc06838a6f61)
+[User Features Demo 1](https://github.com/user-attachments/assets/8140f90d-e0d3-4679-92eb-c599827fcaaa)
 
 - **Interactive Chatbot**: Welcoming messages and opening questions. Handles CLI arguments to skip initial prompts.
 - **Trivia Game**: Built-in trivia game with multiple-choice questions. Displays progress indicators and ✅/❌ symbols for answers.
@@ -28,7 +28,7 @@ AlphaChat is a chatbot with a GUI and console interface for real-time conversati
 - **Error Handling**: Gracefully handles crashes with detailed logs and chat history.
 
 
-[User Features Demo 2](https://github.com/user-attachments/assets/8fa10c3b-4171-4467-8035-0842b332aa88)
+[User Features Demo 2](https://github.com/user-attachments/assets/ea681944-8bd8-416a-bab8-c549eb57c2c3)
 
 - **Audio Assistance**: Users can interact with the chatbot using voice commands. Processes spoken input and provides appropriate responses.
 - **Image Generation**: Generates images based on user-provided text prompts. Leverages an AI-based image generation model.
