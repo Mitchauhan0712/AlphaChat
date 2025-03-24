@@ -10,7 +10,7 @@ AlphaChat is a chatbot with a GUI and console interface for real-time conversati
 
 ### 🛠️ For Service Providers
 
-[Admin Features Demo](https://github.com/Mitchauhan0712/AlphaChat/issues/1#issue-2942738296)
+[Admin Features Demo](https://github.com/user-attachments/assets/0e551a7a-5c2e-4b6f-9eb3-7397367dd8af)
 
 - **Console App for Testing**: A straightforward console-based chatbot for feature testing.
 - **Customizable Q&A Content**: Import questions and answers via CSV files. Edit and manage questions/answers using CLI arguments.
